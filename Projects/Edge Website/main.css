@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+		body{
+			background-color: #F9F9F9;
+			font-family: Open Sans;
+		}
+
+		ol{
+			list-style: none;
+		}
+
+		.mobile_only{
+			display: none;
+		}
+		.mobile_only_dropdown{
+			display: none;
+		}
+		.mobile_hide{
+			display: block;
+		}
+		.mobile_only_spn{
+		display: block;
+		}
+		.absolute{
+			position: absolute;
+		}
+
+		.itm{
+			width:100%;  
+			margin-left:-120px;
+		}
+		.cptn{
+			position: absolute;
+			margin-left:270px;
+			margin-top: -250px;
+		}
+
+		.item{
+			opacity: 1;
+		}
+		.mid{
+			margin-left: 20%;
+		}
+		.item{
+			margin-left: 20%;
+		}
+		.sub{
+			margin-top:-10px;
+		}
+		.nav-brd{
+			margin-top: 10px;
+		}
+		.navbar{
+			height:100px;
+		}
+		.navbar-header{
+			width:100px;
+			margin-left: 400px !important;
+		}
+		.navbar-default{
+			background-color: white;
+			border:none;
+		}
+		.navbar-nav{
+			margin-top: 20px;
+			margin-right: 520px;
+			font-size:15px;
+		}
+
+		.story_holder{
+			width:970px;
+			height: 750px;
+		}
+		.big_story_img{
+			width:400px;
+			height: 400px;
+		}
+		.big_story_header{
+			color:orange;
+			border-bottom: 1px solid orange;
+			padding-bottom: 10px;
+			width:700px;
+		}
+		.big_story_desc{
+			margin-top: -400px;
+			margin-left: 420px;
+			font-size: 15.5px;
+		}
+		.big_story_desc2{
+			margin-top: -10px;
+			font-size: 14px;
+		}
+
+		.footer-holder{
+			position: relative;
+			width: 1903px;
+			height:200px;
+			background-color: black;
+			color:white;
+			margin-top: 920px;
+			margin-left: -0px;
+		}
+		.edge_img_foot{
+			margin-left: 220px;
+			margin-top: 50px;
+		}
+		.sitemap-holder{
+			margin-left: 200px;
+			margin-top: 20px;
+		}
+		.sitemap{
+			display: inline-block;
+			padding-left: 20px;
+			font-family: Open Sans;
+		}
+		.sub_button_foot{
+			position: absolute;
+			margin-left: 1650px;
+			margin-top: -80px;
+		}
+		.sub_button_foot_text{
+			position: absolute;
+			margin-left: 1690px;
+			margin-top: -68px;
+			font-family: Open Sans;
+			font-size:12px;
+			font-weight: bold;
+		}
